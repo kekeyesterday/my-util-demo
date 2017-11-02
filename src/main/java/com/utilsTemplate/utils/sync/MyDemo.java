@@ -10,11 +10,9 @@ public class MyDemo {
 			list.add(i+"");
 		}
 		
-		java.util.Deque<String> deque = new Bloa
+		//java.util.Deque<String> deque = new Bloa
 		
 	}
-	
-	
 
 }
 
